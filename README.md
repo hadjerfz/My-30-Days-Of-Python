@@ -7,7 +7,7 @@ Master Python fundamentals step-by-step, from basic syntax to building real-worl
 
 ## 📈 Progress Tracker
 
-- [✔️] Day 1 - Introduction: Environment & basic commands
+- [x] Day 1 - Introduction: Environment & basic commands
 - [ ] Day 2 - Variables & Built-in Functions
 - [ ] Day 3 - Operators
 - [ ] Day 4 - Strings
